@@ -1,0 +1,2 @@
+m_obs_spring= mushroom_obs_df[mushroom_obs_df['season'] == 's']
+len(m_obs_spring)
